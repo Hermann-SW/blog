@@ -5,7 +5,7 @@ https://www.ibm.com/developerworks/community/blogs/HermannSW
 [Gitbub flavored Markdown](https://github.github.com/gfm/) should be good enough for this.
 
 Tags:  
-[oeis](oeis/README.md)
+[oeis](oeis/#blog-posts-tagged-with-oeis)
 
 Postings:  
-[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](7_28_2014/README.md) July 28 2014
+[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](7_28_2014/#the-on-line-encyclopedia-of-integer-sequences-oeis-gets-50) July 28 2014
