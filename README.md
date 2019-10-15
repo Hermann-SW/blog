@@ -8,4 +8,4 @@ Tags:
 [oeis](oeis)
 
 Postings:  
-[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](../7_28_2014) July 28 2014
+[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](7_28_2014) July 28 2014
