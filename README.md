@@ -4,6 +4,9 @@ https://www.ibm.com/developerworks/community/blogs/HermannSW
 
 [Github flavored Markdown](https://github.github.com/gfm/) should be good enough for this.
 
+I am "HermannSW" everywhere else (like https://twitter.com/HermannSW/).  
+But that name was already in use here when I joined GitHub in May 2015.
+
 Tags:  
 [oeis](oeis/#blog-posts-tagged-with-oeis)
 
