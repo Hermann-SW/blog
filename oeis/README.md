@@ -1,3 +1,4 @@
 # blog posts tagged with "oeis"
 
-[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](../7_28_2014/#the-on-line-encyclopedia-of-integer-sequences-oeis-gets-50) July 28 2014
+[The On-Line Encyclopedia of Integer Sequences® (OEIS®) gets 50](../7_28_2014/#the-on-line-encyclopedia-of-integer-sequences-oeis-gets-50) July 28 2014  
+[Sum of Pascal's triangle reciprocals](../2_16_2011/#feb-16-2011-tags-xslt-triangle-reciprocal-pascals-sum-oeis-16545-views) Feb 16 2011

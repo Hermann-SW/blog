@@ -1,0 +1,5 @@
+<?xml-stylesheet href="Pascal.xsl" type="text/xsl"?>
+<ctrl>
+  <terms>1000</terms>
+  <jmax>12</jmax>
+</ctrl>
