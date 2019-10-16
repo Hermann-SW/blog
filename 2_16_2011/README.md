@@ -42,7 +42,7 @@ So, why is this posting marked with XSLT tag?
 
 Easier to proof it the theorem validity can just be "seen" by actually doing the summations.
 Of course these summations are done by a styesheet.
-Click on [Pascal.xml](../res/Pascal.xml) to compute the sums in your browser (by stylesheet [Pascal.xsl](../res/Pascal.xsl)).  
+Click on [Pascal.xml](https://stamm-wilbrandt.de/en/blog/Pascal.xml) to compute the sums in your browser (by stylesheet [Pascal.xsl](../res/Pascal.xsl)).  
 (interesting what pure HTML allows for in typesetting mathematical formulas itself)  
 
     $ cat Pascal.xml
