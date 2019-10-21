@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     https://www.ibm.com/developerworks/community/blogs/HermannSW/
+             entry/4_interlaced_bisections_from_oeis_org
+-->
+<svg version="1.1" 
+  width="380" height="420" viewBox="0 0 380 420" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <defs>
+    <font-face font-family="SVGFreeSansASCII" unicode-range="U+0-7F"/>
+  </defs>
+
+  <g font-family="SVGFreeSansASCII,sans-serif" font-size="16">
+    <a xlink:href="https://oeis.org/A006451">
+      <text x="25" y="325" stroke="none" fill="blue">A006451</text>
+    </a>
+    <a xlink:href="https://oeis.org/A098586">
+      <text x="25" y="110" stroke="none" fill="blue">A098586</text>
+    </a>
+    <a xlink:href="https://oeis.org/A124124">
+      <text x="285" y="110" stroke="none" fill="blue">A124124</text>
+    </a>
+    <a xlink:href="https://oeis.org/A098790">
+      <text x="280" y="325" stroke="none" fill="blue">A098790</text>
+    </a>
+    <a xlink:href="https://oeis.org/">
+      <text x="275" y="25" stroke="none" fill="blue">oeis.org</text>
+    </a>
+
+    <text x="35" y="25" stroke="none" fill="black">
+      4 interlaced bisections from
+    </text>
+    <text x="040" y="217" stroke="none" fill="black">189</text>
+    <text x="080" y="217" stroke="none" fill="black">32</text>
+    <text x="130" y="217" stroke="none" fill="black">5</text>
+    <text x="170" y="217" stroke="none" fill="black">0</text>
+    <text x="200" y="217" stroke="none" fill="black">1</text>
+    <text x="240" y="217" stroke="none" fill="black">6</text>
+    <text x="280" y="217" stroke="none" fill="black">37</text>
+    <text x="320" y="217" stroke="none" fill="black">218</text>
+
+    <text x="180" y="040" stroke="none" fill="black">…</text>
+    <text x="180" y="080" stroke="none" fill="black">78</text>
+    <text x="180" y="120" stroke="none" fill="black">13</text>
+    <text x="185" y="157" stroke="none" fill="black">2</text>
+    <text x="185" y="277" stroke="none" fill="black">2</text>
+    <text x="180" y="317" stroke="none" fill="black">15</text>
+    <text x="180" y="357" stroke="none" fill="black">90</text>
+    <text x="180" y="397" stroke="none" fill="black">…</text>
+  </g>
+
+  <g font-family="SVGFreeSansASCII,sans-serif" font-size="9">
+    <text x="8" y="45" stroke="none" fill="black">
+       	a(n) = (1/2) * (5 P(n+1) + P(n) - 1),
+    </text>
+    <text x="8" y="57" stroke="none" fill="black">
+        where P(k) are the Pell numbers
+    </text>
+    <a xlink:href="https://oeis.org/A000129">
+      <text x="8" y="69" stroke="none" fill="blue">A000129</text>
+    </a>
+
+    <text x="225" y="45" stroke="none" fill="black">
+       	Nonnegative integers n such that
+    </text>
+    <text x="225" y="57" stroke="none" fill="black">
+        2n^2 + 2n - 3 is square. 
+    </text>
+
+    <text x="8" y="385" stroke="none" fill="black">
+       	Numbers n such that
+    </text>
+    <text x="8" y="397" stroke="none" fill="black">
+        n*(n+1)/2+1 is a square.
+    </text>
+
+    <text x="225" y="385" stroke="none" fill="black">
+ 	a(n) = 2*a(n-1) + a(n-2) + 1,
+    </text>
+    <text x="225" y="397" stroke="none" fill="black">
+ 	a(0) = 1, a(1) = 2. 
+    </text>
+  </g>
+
+  <rect x="0" y="0" width="380" height="420" fill="none" stroke="#000"/>
+
+  <g stroke="red" stroke-width="2" fill="none">
+    <path d="M180,220 l0, 40 l-40,-40 l 40, 80 l-80,-80 
+                      l 80, 120 l-110,-120 l 110, 170 l-75,-85"
+    />
+    <path d="M200,220 l0, 40 l 40,-40 l-40, 80 l 80,-80 
+                      l-80, 120 l 120,-120 l-120, 170 l 80,-85"
+    />
+    <path d="M200,200 l0,-40 l 40, 40 l-40,-80 l 80, 80 
+                      l-80,-120 l 120, 120 l-120,-160 l 80, 80"
+    />
+    <path d="M180,160        l-40, 40 l 40,-80 l-80, 80 
+                      l 80,-120 l-110, 120 l 110,-160 l-80, 80"
+    />
+  </g>
+</svg>
