@@ -1,6 +1,6 @@
 # 4 interlaced bisections from oeis.org 
 
-## September 2014, tags: oeis bisection svg; 10,917 Views 
+## Sep 2 2014, tags: oeis bisection svg; 10,917 Views 
 
 ![4 interlaced bisections](http://stamm-wilbrandt.de/en/blog/4ibfo.xml.svg)  
 
