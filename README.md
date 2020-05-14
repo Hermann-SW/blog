@@ -2,7 +2,7 @@
 Selectively repost stuff from my developerWorks blog that will get lost 12/31/19 due to sunset:  
 https://www.ibm.com/developerworks/community/blogs/HermannSW
 
-Now I am republishing on this site:
+Now I am republishing on this site:  
 https://stamm-wilbrandt.de/en/blog/
 
   
